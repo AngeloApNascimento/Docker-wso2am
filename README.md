@@ -1,6 +1,6 @@
 # Dockerfile para WSO2 API Manager #
 
-Esta seção define as instruções passo a passo para criar uma imagem do Docker baseada no Linux (https://hub.docker.com/_/ubuntu/) no Linux para o WSO2 API Manager 3.0.0.
+Esta seção define as instruções passo a passo para criar uma imagem do Docker baseada no Linux (https://hub.docker.com/_/ubuntu/) para o WSO2 API Manager 3.0.0.
 
 ## Pré-requisitos
 
